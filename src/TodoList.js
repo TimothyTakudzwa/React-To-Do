@@ -47,7 +47,6 @@ class TodoList extends Component {
         });
     }
     render() {
-
         return (
             <div className="todoListMain">
                 <div className="header">
